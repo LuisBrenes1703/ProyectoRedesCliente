@@ -7,7 +7,7 @@ Pre-requisitos:
 Para poder levantar este proyecto se debera Descargar Neat Beans con su respectivo JDK
 Para instalar esta aplicación solo se debe ir al siguiente link y descargara la que corresponda para su computadora:
 https://www.oracle.com/technetwork/es/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
-
+![](link)
 
 Como levantar un proyecto
 Lo primero que tiene que hacer es abrir la aplicación luego de abrir Neat beans selecciona file y open proyect después de escoger el proyecto actual, asegurese
