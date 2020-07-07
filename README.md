@@ -7,11 +7,21 @@ Pre-requisitos:
 Para poder levantar este proyecto se debera Descargar Neat Beans con su respectivo JDK
 Para instalar esta aplicación solo se debe ir al siguiente link y descargara la que corresponda para su computadora:
 https://www.oracle.com/technetwork/es/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
+
+
 ![](https://github.com/LuisBrenes1703/ProyectoRedesCliente/blob/master/DescargarNeatBeans.png)
 
+
 Como levantar un proyecto
+
 Lo primero que tiene que hacer es abrir la aplicación luego de abrir Neat beans selecciona file y open proyect después de escoger el proyecto actual, asegurese
 de haber levantado primero el servidor que esta en el repositorio ProyectoRedesServer luego solo queda ejecutar el proyecto e ingresar la ip del server
+
+
+![](https://github.com/LuisBrenes1703/ProyectoRedesCliente/blob/master/AbrirProyecto.jpg)
+
+![](https://github.com/LuisBrenes1703/ProyectoRedesCliente/blob/master/CorrerProyecto.jpg)
+
 
 El proyecto consta de 4 interfaz 
 1. La primera es para ingresar la ip del server
